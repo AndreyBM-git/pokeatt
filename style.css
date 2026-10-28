@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+}
+
+.mainCard {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: solid 1px black;
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
